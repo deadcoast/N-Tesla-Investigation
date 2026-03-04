@@ -1,4 +1,5 @@
 # ENTITY ANALYSIS
+
 _Behavioral reads, gaps, and investigative notes._  
 _Relational data lives in db/entities.json_
 
@@ -53,6 +54,7 @@ The authorization document — who specifically directed Trump to perform this e
 ## ENT-007 — VANNEVAR BUSH
 
 This is the most underinvestigated node. Bush simultaneously controlled:
+
 - NDRC, which Trump reported to and which authorized the Tesla evaluation
 - The Manhattan Project apparatus, which was the most classified weapons research program in US history, directly adjacent to Tesla's particle beam and directed energy work
 

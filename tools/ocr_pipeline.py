@@ -4,12 +4,12 @@ Converts scanned PDF pages to images at 300 DPI, preprocesses for degraded
 1950s photocopies, runs Tesseract OCR, and writes structured plain text output.
 """
 
-import os
-import sys
+from __future__ import annotations
+
 from pathlib import Path
 
 from pdf2image import convert_from_path
-from PIL import Image, ImageEnhance, ImageFilter
+from PIL import Image, ImageEnhance
 import pytesseract
 
 # ── Configuration ──────────────────────────────────────────────────────────
@@ -20,8 +20,8 @@ TESSERACT_CONFIG = "--psm 6"
 TESSERACT_LANG = "eng"
 UNREADABLE_THRESHOLD = 20  # characters; fewer than this = unreadable
 
-# Paths
-REPO_ROOT = Path(__file__).parent
+# Paths — __file__ is in tools/, project root is one level up
+REPO_ROOT = Path(__file__).resolve().parent.parent
 PDF_DIR = REPO_ROOT / "fbi-vault"
 OUTPUT_DIR = REPO_ROOT / "ocr-output"
 
@@ -36,11 +36,16 @@ pytesseract.pytesseract.tesseract_cmd = TESSERACT_CMD
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
+def _threshold(px: int) -> float:
+    """Binary threshold at 140 for binarization of grayscale images."""
+    return 255.0 if px > 140 else 0.0
+
+
 def preprocess(image: Image.Image) -> Image.Image:
-    """Grayscale → contrast boost → binary threshold."""
+    """Grayscale -> contrast boost -> binary threshold."""
     img = image.convert("L")
     img = ImageEnhance.Contrast(img).enhance(2.0)
-    img = img.point(lambda px: 255 if px > 140 else 0, mode="1")
+    img = img.point(_threshold, mode="1")
     return img
 
 

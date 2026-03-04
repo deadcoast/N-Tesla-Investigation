@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tesseract --version)",
+      "Bash(pdftoppm -v)",
+      "Bash(pip show pytesseract pdf2image Pillow)",
+      "Bash(choco install tesseract poppler -y)"
+    ]
+  }
+}

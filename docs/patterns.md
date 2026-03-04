@@ -1,4 +1,5 @@
 # PATTERN ANALYSIS
+
 _Full behavioral descriptions for each identified pattern._  
 _Relational data lives in db/patterns.json_
 

@@ -1,0 +1,19 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "stubPath": "typestubs",
+  "typeCheckingMode": "standard",
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "include": [
+    "tools",
+    "*.py"
+  ],
+  "exclude": [
+    ".venv",
+    ".archives",
+    "__pycache__",
+    ".mypy_cache"
+  ]
+}

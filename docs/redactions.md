@@ -1,4 +1,5 @@
 # REDACTION ANALYSIS
+
 _Behavioral reads and hypotheses for each documented gap._  
 _Structural data lives in db/redactions.json_
 

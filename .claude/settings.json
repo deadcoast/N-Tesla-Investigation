@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/tools/poppler/poppler-24.08.0/Library/bin/pdftoppm.exe -v)",
+      "Bash(.venv/Scripts/pip.exe install pytesseract pdf2image Pillow)",
+      "Bash(ls .venv/Scripts/*.exe)"
+    ]
+  },
+  "enabledPlugins": {
+    "github@claude-plugins-official": true,
+    "typescript-lsp@claude-plugins-official": true,
+    "claude-code-setup@claude-plugins-official": true,
+    "python-expert@cc-marketplace": true,
+    "web-dev@cc-marketplace": true
+  }
+}
