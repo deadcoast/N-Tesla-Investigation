@@ -1,0 +1,171 @@
+{
+  "schema": "1.0",
+  "type": "leads",
+  "description": "Actionable investigative threads. Relational data only. Analysis in analysis/leads.md",
+  "records": [
+    {
+      "id": "LED-001",
+      "title": "Wright Patterson AFB — Directed Energy / Particle Beam Programs 1943-1960",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 2,
+      "origin": ["ENT-008"],
+      "archive": "NARA RG342 / Wright Patterson AFB FOIA office / NARA RG340 Air Force",
+      "method": "FOIA",
+      "note": "UPGRADED: 1983 classified FBI memo confirms Tesla papers reportedly sent from OAPC to 'Equipment Lab' at WPAFB, now closed/reorganized. WPAFB Foreign Technology Division researcher Butler actively searching in 1983.",
+      "connected": ["RED-004", "ENT-008", "LED-005", "LED-011"]
+    },
+    {
+      "id": "LED-002",
+      "title": "Authorization chain — who selected Trump as evaluator",
+      "status": "PARTIAL",
+      "priority": 5,
+      "degree": 2,
+      "origin": ["ENT-004", "RED-003"],
+      "archive": "NARA RG227 (OSRD/NDRC records), MIT Archives",
+      "method": "FOIA + physical archive",
+      "note": "PARTIAL: Trump's letter names Walter Gorsuch (APC NY) and Joseph T. King (APC Washington) as requestors. Trump signed as Technical Aide, Division 14 NDRC (radar division). Who above Gorsuch/King authorized ONI participation? That chain is unresolved.",
+      "connected": ["ENT-004", "ENT-007", "RED-003", "LED-010"]
+    },
+    {
+      "id": "LED-003",
+      "title": "Vannevar Bush personal papers — MIT Archives — Tesla references",
+      "status": "OPEN",
+      "priority": 4,
+      "degree": 2,
+      "origin": ["ENT-007"],
+      "archive": "MIT Institute Archives MC 78",
+      "method": "Physical archive visit or paid researcher",
+      "connected": ["ENT-007", "ENT-004", "LED-002", "RED-003"]
+    },
+    {
+      "id": "LED-004",
+      "title": "Kenneth [REDACTED] — identity confirmed",
+      "status": "RESOLVED",
+      "priority": 5,
+      "degree": 1,
+      "origin": ["ENT-002", "RED-001"],
+      "resolved_identity": "Kenneth M. Swezey, 163 Milton Street, Brooklyn NY. Writer for Popular Mechanics. Personally present at safe opening Jan 8 1943. Wrote directly to Hoover June 1955 re missing Edison Medal. Hoover personally replied with denial template.",
+      "archive": "FBI FOIA (Swezey file), Smithsonian Institution Archives",
+      "method": "Confirmed in Part 1 FBI vault document",
+      "connected": ["ENT-002", "RED-001", "RED-002", "LED-014"]
+    },
+    {
+      "id": "LED-005",
+      "title": "National Archives OAPC records — physical chain of custody for 20 missing trunks",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 1,
+      "origin": ["RED-004"],
+      "archive": "NARA Archives II College Park MD — RG131, RG227",
+      "method": "NARA online request or physical visit",
+      "note": "Highest priority physical archive lead. The paper trail for 20 trunks legally must exist.",
+      "connected": ["RED-004", "ENT-003", "LED-001"]
+    },
+    {
+      "id": "LED-006",
+      "title": "Helen Gandy destroyed Hoover personal files 1972 — any Tesla material documented",
+      "status": "OPEN",
+      "priority": 3,
+      "degree": 2,
+      "origin": ["ENT-002"],
+      "archive": "Congressional Record 1972-1974 hearings, GPO",
+      "method": "Congressional record search",
+      "connected": ["ENT-002"]
+    },
+    {
+      "id": "LED-007",
+      "title": "Yugoslav diplomatic archives — Kosanović cables 1943-1951",
+      "status": "OPEN",
+      "priority": 3,
+      "degree": 2,
+      "origin": ["ENT-003"],
+      "archive": "Nikola Tesla Museum Belgrade, Serbian National Archives",
+      "method": "Direct contact with Tesla Museum Belgrade",
+      "connected": ["ENT-003", "RED-002", "RED-004"]
+    },
+    {
+      "id": "LED-008",
+      "title": "Morgan Bank / Morgan Library — post-1904 Tesla correspondence",
+      "status": "OPEN",
+      "priority": 2,
+      "degree": 2,
+      "origin": ["ENT-005"],
+      "archive": "Morgan Library & Museum NYC — Pierpont Morgan papers",
+      "method": "Research appointment, Morgan Library",
+      "connected": ["ENT-005", "ENT-009"]
+    },
+    {
+      "id": "LED-009",
+      "title": "Henry Wallace diaries — University of Iowa — January 1943 entries",
+      "status": "OPEN",
+      "priority": 4,
+      "degree": 2,
+      "origin": ["ENT-006"],
+      "archive": "University of Iowa Special Collections MS 0290",
+      "method": "Check online finding aid first, then request",
+      "note": "Upgraded: Lozado (Wallace advisor) confirmed in FBI Part 1 as direct link on day of death. Wallace diary entry for Jan 7-8 1943 should show what he knew and when.",
+      "connected": ["ENT-006", "RED-001", "LED-013"]
+    },
+    {
+      "id": "LED-010",
+      "title": "Willis George — ONI Third Naval District — authorization for Jan 26-27 examination",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 2,
+      "origin": ["RED-003"],
+      "archive": "NARA RG38 (Office of Naval Intelligence records), Third Naval District files",
+      "method": "FOIA + physical NARA",
+      "note": "NEW: George plus two Navy yeomen participated in civilian APC examination. No explanation in file. ONI participation in a probate/APC examination is procedurally anomalous. Who authorized it?",
+      "connected": ["RED-003", "ENT-004", "LED-002"]
+    },
+    {
+      "id": "LED-011",
+      "title": "WPAFB Equipment Lab — organizational successor — Tesla paper repository",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 2,
+      "origin": ["LED-001"],
+      "archive": "NARA RG340, Air Force Materiel Command history office, WPAFB",
+      "method": "FOIA to WPAFB + AF history office contact",
+      "note": "NEW: 1983 classified FBI memo names 'Equipment Lab, now closed or reorganized' at WPAFB as reported recipient of Tesla papers from OAPC. Reorganized labs transfer records. The successor organization holds what the Equipment Lab held.",
+      "connected": ["LED-001", "RED-004"]
+    },
+    {
+      "id": "LED-012",
+      "title": "Charlotte Muzar — estate agent for Kosanovich — 134 East 63rd St NY",
+      "status": "OPEN",
+      "priority": 3,
+      "degree": 2,
+      "origin": ["ENT-003"],
+      "archive": "NY County Surrogate Court probate records, NARA RG131 OAPC",
+      "method": "Court records + NARA",
+      "note": "NEW: Muzar paid $15/month storage on Kosanovich's behalf. She was the US-side operational manager of the estate. Her correspondence with Kosanovich would document what instructions she received about inventory.",
+      "connected": ["ENT-003", "RED-004", "LED-005"]
+    },
+    {
+      "id": "LED-013",
+      "title": "Dr. Lozado — Wallace advisor — identity and role on day of Tesla's death",
+      "status": "OPEN",
+      "priority": 4,
+      "degree": 2,
+      "origin": ["ENT-006"],
+      "archive": "University of Iowa Wallace papers, National Archives VP correspondence",
+      "method": "Iowa archive + NARA",
+      "note": "NEW: Lozado confirmed in FBI teletype as VP Wallace advisor who told Spanel government was 'vitally interested' on day of death. Identifying Lozado establishes whether notification was reactive or the VP's office was tracking Tesla already.",
+      "connected": ["ENT-006", "LED-009"]
+    },
+    {
+      "id": "LED-014",
+      "title": "Tesla gold Edison Medal — missing from safe — chain of custody 1943-1951",
+      "status": "OPEN",
+      "priority": 4,
+      "degree": 2,
+      "origin": ["ENT-003"],
+      "archive": "NARA RG131 OAPC shipping manifest, Tesla Museum Belgrade inventory, Port of Rijeka manifest",
+      "method": "NARA + Tesla Museum direct contact",
+      "note": "NEW: Swezey confirms medal was in safe when he left. Medal and keys missing on Belgrade arrival. Keys found in tin box OUTSIDE safe. Physical object with documented custody break during 1943-1951 storage/transit period.",
+      "connected": ["ENT-003", "LED-007", "RED-004"]
+    }
+  ]
+}
