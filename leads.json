@@ -1,0 +1,108 @@
+{
+  "schema": "1.0",
+  "type": "leads",
+  "description": "Actionable investigative threads. Relational data only. Analysis in analysis/leads.md",
+  "records": [
+    {
+      "id": "LED-001",
+      "title": "Wright Patterson AFB — Directed Energy / Particle Beam Programs 1943-1960",
+      "status": "OPEN",
+      "priority": 4,
+      "degree": 2,
+      "origin": ["ENT-008"],
+      "archive": "NARA RG342 / Wright Patterson AFB FOIA office",
+      "method": "FOIA",
+      "connected": ["RED-004", "ENT-008", "LED-005"]
+    },
+    {
+      "id": "LED-002",
+      "title": "Authorization chain — who selected Trump as evaluator",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 2,
+      "origin": ["ENT-004", "RED-003"],
+      "archive": "NARA RG227 (OSRD/NDRC records), MIT Archives",
+      "method": "FOIA + physical archive",
+      "connected": ["ENT-004", "ENT-007", "RED-003"]
+    },
+    {
+      "id": "LED-003",
+      "title": "Vannevar Bush personal papers — MIT Archives — Tesla references",
+      "status": "OPEN",
+      "priority": 4,
+      "degree": 2,
+      "origin": ["ENT-007"],
+      "archive": "MIT Institute Archives MC 78",
+      "method": "Physical archive visit or paid researcher",
+      "connected": ["ENT-007", "ENT-004", "LED-002", "RED-003"]
+    },
+    {
+      "id": "LED-004",
+      "title": "Kenneth [REDACTED] — identity of Hoover's personal cross-reference",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 2,
+      "origin": ["ENT-002", "RED-001"],
+      "primary_candidate": "Kenneth M. Swezey — Tesla's personal friend, science journalist",
+      "archive": "FBI FOIA (Swezey file), Smithsonian Institution Archives",
+      "method": "Targeted FOIA + Smithsonian collection review",
+      "connected": ["ENT-002", "RED-001", "RED-002"]
+    },
+    {
+      "id": "LED-005",
+      "title": "National Archives OAPC records — physical chain of custody for 20 missing trunks",
+      "status": "OPEN",
+      "priority": 5,
+      "degree": 1,
+      "origin": ["RED-004"],
+      "archive": "NARA Archives II College Park MD — RG131, RG227",
+      "method": "NARA online request or physical visit",
+      "note": "Highest priority physical archive lead. The paper trail for 20 trunks legally must exist.",
+      "connected": ["RED-004", "ENT-003", "LED-001"]
+    },
+    {
+      "id": "LED-006",
+      "title": "Helen Gandy destroyed Hoover personal files 1972 — any Tesla material documented",
+      "status": "OPEN",
+      "priority": 3,
+      "degree": 2,
+      "origin": ["ENT-002"],
+      "archive": "Congressional Record 1972-1974 hearings, GPO",
+      "method": "Congressional record search",
+      "connected": ["ENT-002"]
+    },
+    {
+      "id": "LED-007",
+      "title": "Yugoslav diplomatic archives — Kosanović cables 1943-1951",
+      "status": "OPEN",
+      "priority": 3,
+      "degree": 2,
+      "origin": ["ENT-003"],
+      "archive": "Nikola Tesla Museum Belgrade, Serbian National Archives",
+      "method": "Direct contact with Tesla Museum Belgrade",
+      "connected": ["ENT-003", "RED-002", "RED-004"]
+    },
+    {
+      "id": "LED-008",
+      "title": "Morgan Bank / Morgan Library — post-1904 Tesla correspondence",
+      "status": "OPEN",
+      "priority": 2,
+      "degree": 2,
+      "origin": ["ENT-005"],
+      "archive": "Morgan Library & Museum NYC — Pierpont Morgan papers",
+      "method": "Research appointment, Morgan Library",
+      "connected": ["ENT-005", "ENT-009"]
+    },
+    {
+      "id": "LED-009",
+      "title": "Henry Wallace diaries — University of Iowa — January 1943 entries",
+      "status": "OPEN",
+      "priority": 3,
+      "degree": 2,
+      "origin": ["ENT-006"],
+      "archive": "University of Iowa Special Collections MS 0290",
+      "method": "Check online finding aid first, then request",
+      "connected": ["ENT-006", "RED-001"]
+    }
+  ]
+}

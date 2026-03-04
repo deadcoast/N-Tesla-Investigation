@@ -1,0 +1,27 @@
+{
+  "schema": "1.0",
+  "type": "timeline",
+  "records": [
+    { "id": "EVT-001", "date": "1891", "event": "Tesla becomes US citizen", "flag": "LEGAL-STATUS", "significance": 3, "entities": ["ENT-001"] },
+    { "id": "EVT-002", "date": "1901", "event": "Wardenclyffe Tower funded by Morgan", "flag": "FINANCIAL", "significance": 4, "entities": ["ENT-001", "ENT-005"] },
+    { "id": "EVT-003", "date": "1904", "event": "Morgan withdraws Wardenclyffe funding", "flag": "SUPPRESSION", "significance": 5, "entities": ["ENT-001", "ENT-005"] },
+    { "id": "EVT-004", "date": "1917", "event": "Wardenclyffe demolished. Tesla financial collapse begins.", "flag": "CRITICAL-LOSS", "significance": 5, "entities": ["ENT-001"] },
+    { "id": "EVT-005", "date": "1922-06-04", "event": "Tesla speech at Orange Hall Springfield MA, Friends of Russia. Hoover memo generated. Kenneth [REDACTED] cross-referenced.", "flag": "FBI-TARGET", "significance": 4, "entities": ["ENT-001", "ENT-002"] },
+    { "id": "EVT-006", "date": "1934", "event": "Tesla claims Death Ray / teleforce device. Attempts military sale.", "flag": "WEAPONS", "significance": 5, "entities": ["ENT-001"] },
+    { "id": "EVT-007", "date": "1940", "event": "Hoover receives NYT Tesla interview from unnamed citizen. Active FBI file begins.", "flag": "SURVEILLANCE-ESCALATION", "significance": 4, "entities": ["ENT-001", "ENT-002"] },
+    { "id": "EVT-008", "date": "1943-01-07", "event": "Tesla found dead, Room 3327, Hotel New Yorker, NYC. OFFICIAL DATE.", "flag": "DEATH", "significance": 5, "entities": ["ENT-001"] },
+    { "id": "EVT-008B", "date": "1943-01-08", "event": "Tesla death date per FBI documents. DISCREPANCY WITH OFFICIAL RECORD — unresolved.", "flag": "DATE-ANOMALY", "significance": 5, "entities": ["ENT-001"] },
+    { "id": "EVT-009", "date": "1943-01-08", "event": "Trump begins 2-day evaluation of 80 trunks of Tesla papers.", "flag": "ANOMALY", "significance": 5, "entities": ["ENT-004", "ENT-001"] },
+    { "id": "EVT-010", "date": "1943-01-09", "event": "Trump concludes evaluation. Declares nothing of significant value.", "flag": "OFFICIAL-RECORD", "significance": 5, "entities": ["ENT-004"] },
+    { "id": "EVT-011", "date": "1943-01-11", "event": "Hoover personally signs FBI memo detailing Tesla torpedo work. Warns of enemy hands. Kenneth [REDACTED] cross-reference.", "flag": "CLASSIFIED", "significance": 5, "entities": ["ENT-002", "ENT-001"] },
+    { "id": "EVT-012", "date": "1943-03-29", "event": "Kosanovic theft allegation filed. Heavily redacted resolution.", "flag": "CUSTODY-DISPUTE", "significance": 4, "entities": ["ENT-003", "ENT-002"] },
+    { "id": "EVT-013", "date": "1944", "event": "Biography Prodigal Genius published — claims FBI has Tesla papers. Hoover begins public denial campaign that lasts decades.", "flag": "COVER-NARRATIVE", "significance": 3, "entities": ["ENT-002"] },
+    { "id": "EVT-014", "date": "1943-1951", "event": "80 trunks held by OAPC. Location unknown even to OAPC internally. 8-year custody gap.", "flag": "MISSING-MATERIAL", "significance": 5, "entities": ["ENT-003", "ENT-007"] },
+    { "id": "EVT-015", "date": "1951-09", "event": "60 trunks shipped to Belgrade on ship Serbia. 20 trunks unaccounted for. No reconciliation document released.", "flag": "CRITICAL-GAP", "significance": 5, "entities": ["ENT-003"] },
+    { "id": "EVT-016", "date": "1955-10-20", "event": "Nikola Tesla Museum opens in Belgrade.", "flag": "ARCHIVE", "significance": 3, "entities": ["ENT-003"] },
+    { "id": "EVT-017", "date": "1956-11-14", "event": "Sava Kosanović dies. One year after museum opened. No independent cause-of-death verification.", "flag": "PERSON-OF-INTEREST-DEATH", "significance": 4, "entities": ["ENT-003"] },
+    { "id": "EVT-018", "date": "1984", "event": "Death ray technical papers found at Belgrade museum. Officially do not contradict Trump evaluation.", "flag": "DISCOVERY", "significance": 4, "entities": ["ENT-001"] },
+    { "id": "EVT-019", "date": "2016", "event": "FBI releases 250 pages via FOIA. Significant redactions remain. Multiple pages still blacked out.", "flag": "PARTIAL-RELEASE", "significance": 3, "entities": ["ENT-002"] },
+    { "id": "EVT-020", "date": "2018-03", "event": "Additional FBI release. More redactions. Some documents still entirely withheld.", "flag": "PARTIAL-RELEASE", "significance": 3, "entities": ["ENT-002"] }
+  ]
+}

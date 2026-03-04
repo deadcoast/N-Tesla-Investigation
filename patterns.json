@@ -1,0 +1,61 @@
+{
+  "schema": "1.0",
+  "type": "patterns",
+  "description": "Behavioral and human nature patterns. Relational data only. Analysis in analysis/patterns.md",
+  "records": [
+    {
+      "id": "PAT-001",
+      "name": "The 3-Day Disposal",
+      "category": "INSTITUTIONAL",
+      "strength": 5,
+      "entities": ["ENT-004", "ENT-007"],
+      "redactions": ["RED-003"],
+      "leads": ["LED-002"]
+    },
+    {
+      "id": "PAT-002",
+      "name": "The Motivated Evaluator",
+      "category": "HUMAN-NATURE",
+      "strength": 4,
+      "entities": ["ENT-004"],
+      "redactions": ["RED-003"],
+      "leads": ["LED-002"]
+    },
+    {
+      "id": "PAT-003",
+      "name": "The Convenient Theft Narrative",
+      "category": "INSTITUTIONAL",
+      "strength": 3,
+      "entities": ["ENT-003", "ENT-002"],
+      "redactions": ["RED-002"],
+      "leads": ["LED-007"]
+    },
+    {
+      "id": "PAT-004",
+      "name": "The Inventory Disappearance",
+      "category": "SUPPRESSION",
+      "strength": 5,
+      "entities": ["ENT-007"],
+      "redactions": ["RED-004"],
+      "leads": ["LED-005"]
+    },
+    {
+      "id": "PAT-005",
+      "name": "The Reputational Pre-Emptive Strike",
+      "category": "SUPPRESSION",
+      "strength": 4,
+      "entities": ["ENT-001", "ENT-005", "ENT-009"],
+      "redactions": [],
+      "leads": []
+    },
+    {
+      "id": "PAT-006",
+      "name": "The Protective Response Under Threat",
+      "category": "HUMAN-NATURE",
+      "strength": 3,
+      "entities": ["ENT-003"],
+      "redactions": [],
+      "leads": ["LED-004"]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schema": "1.0",
+  "type": "entities",
+  "description": "All persons, organizations, locations. Relational data only. Analysis lives in analysis/entities.md",
+  "records": [
+    {
+      "id": "ENT-001",
+      "name": "Nikola Tesla",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1856-07-10",
+      "dod": "1943-01-07",
+      "dod_note": "DISPUTED — FBI docs indicate Jan 8. Official record says Jan 7. Unresolved.",
+      "degree": 0,
+      "confidence": 5,
+      "tags": ["PRIMARY", "ENERGY", "WEAPONS", "WIRELESS", "CITIZENSHIP:US-NATURALIZED-1891"],
+      "connections": [
+        { "id": "ENT-003", "degree": 1, "type": "BLOOD", "note": "nephew — sister Marica's son" },
+        { "id": "ENT-004", "degree": 1, "type": "PROFESSIONAL", "note": "evaluator of papers post-death" },
+        { "id": "ENT-005", "degree": 1, "type": "FINANCIAL", "note": "primary funder then suppressor" },
+        { "id": "ENT-006", "degree": 1, "type": "SURVEILLANCE", "note": "Hoover file subject" },
+        { "id": "ENT-008", "degree": 1, "type": "COMPETITOR", "note": "War of Currents" },
+        { "id": "ENT-007", "degree": 2, "type": "POLITICAL", "note": "VP-level awareness of work" },
+        { "id": "ENT-009", "degree": 2, "type": "SCIENTIFIC", "note": "Manhattan Project / paper chain" }
+      ],
+      "redactions": ["RED-001", "RED-003"],
+      "leads": ["LED-001", "LED-004", "LED-005"],
+      "patterns": ["PAT-005"]
+    },
+    {
+      "id": "ENT-002",
+      "name": "J. Edgar Hoover",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1895-01-01",
+      "dod": "1972-05-02",
+      "degree": 1,
+      "confidence": 5,
+      "tags": ["FBI-DIRECTOR", "SURVEILLANCE", "SIGNED-MEMO", "PERSONAL-FILES-DESTROYED"],
+      "connections": [
+        { "id": "ENT-001", "degree": 1, "type": "SURVEILLANCE", "note": "personally signed Tesla memos" },
+        { "id": "ENT-003", "degree": 1, "type": "SUSPECT-MONITORING", "note": "Kosanovic theft allegation" },
+        { "id": "ENT-004", "degree": 1, "type": "CHAIN", "note": "Trump reported through NDRC apparatus" },
+        { "id": "ENT-007", "degree": 2, "type": "POLITICAL", "note": "Wallace notified by Hoover agents" }
+      ],
+      "redactions": ["RED-001", "RED-002"],
+      "leads": ["LED-004", "LED-006"],
+      "patterns": ["PAT-001", "PAT-003"]
+    },
+    {
+      "id": "ENT-003",
+      "name": "Sava Kosanović",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1894-05-29",
+      "dod": "1956-11-14",
+      "dod_note": "Died one year after Tesla Museum opened. No independent cause-of-death verification found.",
+      "degree": 1,
+      "confidence": 5,
+      "tags": ["BLOOD-HEIR", "DIPLOMAT", "YUGOSLAVIA", "SUSPECTED-THEFT", "MISSING-TRUNKS"],
+      "connections": [
+        { "id": "ENT-001", "degree": 1, "type": "BLOOD", "note": "nephew — mother was Marica Tesla" },
+        { "id": "ENT-002", "degree": 1, "type": "SUSPECT", "note": "FBI monitored, theft allegation" }
+      ],
+      "redactions": ["RED-002", "RED-004"],
+      "leads": ["LED-007"],
+      "patterns": ["PAT-003"]
+    },
+    {
+      "id": "ENT-004",
+      "name": "Dr. John G. Trump",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1907-01-01",
+      "dod": "1985-02-21",
+      "degree": 1,
+      "confidence": 5,
+      "tags": ["EVALUATOR", "MIT", "CONFLICT-OF-INTEREST", "TRUMP-FAMILY", "NDRC", "3-DAY-EVALUATION"],
+      "evaluation_duration_days": 2,
+      "evaluation_trunks": 80,
+      "evaluation_conclusion": "primarily speculative, philosophical and promotional — no workable principles",
+      "prior_incident": "Tesla publicly humiliated Trump by demonstrating two small coils outperforming his massive Van de Graaff generator at MIT",
+      "family_note": "Uncle of Donald J. Trump, 45th and 47th US President",
+      "connections": [
+        { "id": "ENT-001", "degree": 1, "type": "EVALUATOR", "note": "reviewed Tesla papers Jan 8-9 1943" },
+        { "id": "ENT-002", "degree": 1, "type": "CHAIN", "note": "reported through NDRC" },
+        { "id": "ENT-009", "degree": 1, "type": "INSTITUTIONAL", "note": "both NDRC apparatus" }
+      ],
+      "redactions": ["RED-003"],
+      "leads": ["LED-002", "LED-003"],
+      "patterns": ["PAT-001", "PAT-002"]
+    },
+    {
+      "id": "ENT-005",
+      "name": "J.P. Morgan Sr.",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1837-04-17",
+      "dod": "1913-04-13",
+      "degree": 1,
+      "confidence": 5,
+      "tags": ["FINANCIER", "WARDENCLYFFE", "INFRASTRUCTURE-MONOPOLY", "FUNDING-WITHDRAWAL"],
+      "connections": [
+        { "id": "ENT-001", "degree": 1, "type": "FINANCIAL", "note": "funded then killed Wardenclyffe" },
+        { "id": "ENT-008", "degree": 2, "type": "FINANCIAL", "note": "Edison infrastructure aligned with Morgan" }
+      ],
+      "redactions": [],
+      "leads": ["LED-008"],
+      "patterns": ["PAT-005"]
+    },
+    {
+      "id": "ENT-006",
+      "name": "Henry Wallace",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1888-10-07",
+      "dod": "1965-11-18",
+      "degree": 2,
+      "confidence": 4,
+      "tags": ["VP-USA", "HIGH-LEVEL-AWARENESS", "CONFIRMED-INTEREST", "FDR-ADMINISTRATION"],
+      "confirmed_in_fbi_docs": true,
+      "confirmed_action": "Personally briefed by Hoover agents on Tesla death. Discussed Tesla wireless energy and death ray with advisors. Documented in 2016 FOIA release.",
+      "connections": [
+        { "id": "ENT-002", "degree": 1, "type": "POLITICAL", "note": "Hoover agents notified Wallace directly" },
+        { "id": "ENT-009", "degree": 1, "type": "POLITICAL", "note": "both FDR inner circle" }
+      ],
+      "redactions": ["RED-001"],
+      "leads": ["LED-009"],
+      "patterns": []
+    },
+    {
+      "id": "ENT-007",
+      "name": "Vannevar Bush",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1890-03-11",
+      "dod": "1974-06-28",
+      "degree": 2,
+      "confidence": 4,
+      "tags": ["MANHATTAN-PROJECT", "NDRC", "PAPER-EVALUATOR", "FDR-SCIENCE-CZAR", "UNDERINVESTIGATED"],
+      "dual_authority_note": "Ran NDRC (Trump's reporting body) AND Manhattan Project simultaneously. Both touched Tesla material. This overlap is the most underinvestigated node.",
+      "connections": [
+        { "id": "ENT-004", "degree": 1, "type": "INSTITUTIONAL", "note": "Trump reported to NDRC, Bush ran NDRC" },
+        { "id": "ENT-006", "degree": 1, "type": "POLITICAL", "note": "both FDR inner circle" }
+      ],
+      "redactions": ["RED-003", "RED-004"],
+      "leads": ["LED-003"],
+      "patterns": ["PAT-001"]
+    },
+    {
+      "id": "ENT-008",
+      "name": "Brig. Gen. L.C. Craigee",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1902-01-01",
+      "dod": "1994-02-27",
+      "degree": 2,
+      "confidence": 3,
+      "confidence_note": "Assessment documented by Seifer. Primary document not yet located.",
+      "tags": ["MILITARY", "WRIGHT-PATTERSON", "CONTRADICTS-OFFICIAL", "PARTICLE-BEAM", "FIRST-MILITARY-JET-PILOT"],
+      "assessment": "There's something to this — the particle beam weapon is real.",
+      "assessment_source": "Marc Seifer biography — primary document unlocated",
+      "contradicts": "ENT-004 evaluation — opposite conclusion",
+      "connections": [
+        { "id": "ENT-001", "degree": 2, "type": "ASSESSED", "note": "reviewed Tesla death ray concept" },
+        { "id": "ENT-004", "degree": 2, "type": "CONTRADICTS", "note": "opposite conclusion, never given equal weight" }
+      ],
+      "redactions": [],
+      "leads": ["LED-001"],
+      "patterns": ["PAT-002"]
+    },
+    {
+      "id": "ENT-009",
+      "name": "Thomas Edison",
+      "type": "PERSON",
+      "status": "DECEASED",
+      "dob": "1847-02-11",
+      "dod": "1931-10-18",
+      "degree": 1,
+      "confidence": 5,
+      "tags": ["COMPETITOR", "WAR-OF-CURRENTS", "DC-INFRASTRUCTURE", "SMEAR-CAMPAIGN", "TEMPLATE"],
+      "template_note": "Edison is the operational TEMPLATE for Tesla suppression. Proved institutional reputational attack works. GE (his company) continued as major utility player post-death.",
+      "connections": [
+        { "id": "ENT-001", "degree": 1, "type": "COMPETITOR", "note": "War of Currents" },
+        { "id": "ENT-005", "degree": 2, "type": "FINANCIAL", "note": "both DC infrastructure aligned" }
+      ],
+      "redactions": [],
+      "leads": [],
+      "patterns": ["PAT-005"]
+    }
+  ]
+}
