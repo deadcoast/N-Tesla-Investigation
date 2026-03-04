@@ -1,19 +1,15 @@
 # Current Investigation State
 
 ## Completed
-- Database schema built: entities, leads, patterns, redactions, timeline (all JSON)
-- Analysis prose written for all initial nodes (all .md files)
-- OCR pipeline built and executed on all 3 FBI vault PDFs
-- OCR output generated: tesla_part1_ocr.txt, tesla_part2_ocr.txt, tesla_final_ocr.txt
+- Database schema built: entities, leads, patterns, redactions, timeline (all JSON in `docs/json/`)
+- Analysis prose written for all initial nodes (all .md files in `docs/`)
+- Extended database files: `docs/database/PATTERN_DATABASE.md`, `docs/database/REDACTION_DATABASE.md`
+- OCR pipeline built (`tools/ocr_pipeline.py`) and executed on all 3 FBI vault PDFs
+- OCR output generated in `assets/ocr-output/`
 - Investigation log started (LOG-001 complete)
-
-## Database Counts
-- Entities: ENT-001 through ENT-009 (9 records)
-- Redactions: RED-001 through RED-004 (4 records)
-- Leads: LED-001 through LED-009 (9 records)
-- Patterns: PAT-001 through PAT-006 (6 records)
-- Timeline: EVT-001 through EVT-020 (20 events)
-- Open Questions: Q-001 through Q-012
+- Project restructured: fbi-vault → `assets/fbi-vault/`, ocr-output → `assets/ocr-output/`, pipeline → `tools/`
+- Per-part FBI vault analysis sessions started in `INVESTIGATION/1/`, `INVESTIGATION/2/`, `INVESTIGATION/3/`
+- Each INVESTIGATION part has its own investigation_log.md, leads.json, overview.md, and analysis.md
 
 ## Next Planned Work (per LOG-002)
 - Line-by-line analysis of FBI vault OCR text (all 3 parts)

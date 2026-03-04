@@ -6,19 +6,45 @@
 - Tesseract OCR installed (check `tesseract --version`)
 - Poppler installed at `C:/tools/poppler/poppler-24.08.0/Library/bin/`
 
-## Project Layout
+## Project Layout (Updated March 2026)
 ```
 N-Tesla-Investigation/
 ├── .claude/              # Claude Code config
 │   ├── directive-1.md    # OCR pipeline task spec
-│   ├── settings.json     # Permissions and plugins
+│   ├── settings.json
 │   └── settings.local.json
-├── fbi-vault/            # Source PDFs (3 files, ~290 pages total)
-├── ocr-output/           # OCR text output (3 files)
-├── ocr_pipeline.py       # OCR processing script
-├── *.json                # Investigation database (5 files)
-├── *.md                  # Analysis prose + investigation log
-├── pyproject.toml        # uv project config
+├── assets/
+│   ├── fbi-vault/        # Source PDFs (3 files, ~290 pages total)
+│   └── ocr-output/       # OCR text output (3 files)
+├── docs/                 # MASTER DOCUMENTATION (two-layer system)
+│   ├── entities.md       # Entity analysis prose
+│   ├── patterns.md       # Pattern analysis prose
+│   ├── redactions.md     # Redaction analysis prose
+│   ├── investigation_log.md  # Session log + open questions
+│   ├── json/             # JSON relational database
+│   │   ├── README.md     # ATTN:AGENT::APPLY — operational directive
+│   │   ├── entities.json
+│   │   ├── leads.json
+│   │   ├── patterns.json
+│   │   ├── redactions.json
+│   │   └── timeline.json
+│   └── database/         # Extended analysis databases
+│       ├── PATTERN_DATABASE.md
+│       └── REDACTION_DATABASE.md
+├── INVESTIGATION/        # Per-part FBI vault analysis sessions
+│   ├── 1/                # Part 1 analysis (pages 1-249)
+│   │   ├── investigation_log.md
+│   │   ├── leads.json
+│   │   ├── overview.md
+│   │   └── part1_fbi_vault_analysis.md
+│   ├── 2/                # Part 2 analysis (pages 250-290)
+│   │   └── (same structure)
+│   └── 3/                # Final part analysis
+│       └── (same structure)
+├── tools/
+│   └── ocr_pipeline.py   # OCR processing script
+├── pyproject.toml
+├── README.md
 └── uv.lock
 ```
 

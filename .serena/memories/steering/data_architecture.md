@@ -1,8 +1,8 @@
 # Data Architecture Rules
 
 ## The Two-Layer System
-- **JSON files** = relational data, strict schema, machine-parseable
-- **Markdown files** = analysis prose, behavioral reads, hypotheses
+- **JSON files** (`docs/json/`) = relational data, strict schema, machine-parseable
+- **Markdown files** (`docs/` + `docs/database/`) = analysis prose, behavioral reads, hypotheses
 
 These layers are deliberately separated. Never merge them. JSON is for facts and relationships. Markdown is for interpretation.
 
