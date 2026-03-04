@@ -1,10 +1,5 @@
 {
   "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
-  "python.analysis.typeCheckingMode": "standard",
-  "python.analysis.stubPath": "typestubs",
-  "python.analysis.extraPaths": [
-    "${workspaceFolder}"
-  ],
   "mypy-type-checker.args": [
     "--config-file=${workspaceFolder}/mypy.ini"
   ]

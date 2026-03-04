@@ -1,4 +1,5 @@
 # INVESTIGATION LOG
+
 _Running record of sessions, findings, and open questions._
 
 ---
@@ -49,28 +50,30 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 
 ## OPEN QUESTIONS
 
-| ID | Question | Source | Priority |
-|----|----------|--------|----------|
-| Q-001 | Which specific FBI agent notified Wallace of Tesla's death? | EVT-008, ENT-006 | HIGH |
-| Q-002 | What was Tesla specifically working on in 1942-43? | ENT-001 | HIGH |
-| Q-003 | Did FDR actually attempt to meet Tesla pre-death? What is the source? | FBI docs per Seifer | HIGH |
-| Q-004 | What did Tesla say at the 1922 Friends of Russia speech? | EVT-005 | MEDIUM |
-| Q-005 | Where was Tesla's laboratory equipment? Hotel room ≠ all equipment. | ENT-001 | MEDIUM |
-| Q-006 | Who were Tesla's regular contacts at Hotel New Yorker in final years? | ENT-001 | MEDIUM |
-| Q-007 | Ship Serbia, Port of Rijeka, September 1951 — does a manifest exist? | EVT-015 | MEDIUM |
-| Q-008 | Kosanović died 1956 — cause of death documented and verified? | ENT-003 | MEDIUM |
-| Q-009 | Trump/Van de Graaff incident — what is the primary source? When exactly? | ENT-004 | HIGH |
-| Q-010 | Craigee particle beam assessment — what is the primary document Seifer used? | ENT-008 | HIGH |
-| Q-011 | Belgrade museum catalogue — does it skew toward pre-1928 material? | RED-004 | HIGH |
-| Q-012 | Who was the "concerned citizen" who sent Hoover the 1940 NYT Tesla interview? | EVT-007 | MEDIUM |
+| ID    | Question                                                                      | Source              | Priority |
+|-------|-------------------------------------------------------------------------------|---------------------|----------|
+| Q-001 | Which specific FBI agent notified Wallace of Tesla's death?                   | EVT-008, ENT-006    | HIGH     |
+| Q-002 | What was Tesla specifically working on in 1942-43?                            | ENT-001             | HIGH     |
+| Q-003 | Did FDR actually attempt to meet Tesla pre-death? What is the source?         | FBI docs per Seifer | HIGH     |
+| Q-004 | What did Tesla say at the 1922 Friends of Russia speech?                      | EVT-005             | MEDIUM   |
+| Q-005 | Where was Tesla's laboratory equipment? Hotel room ≠ all equipment.           | ENT-001             | MEDIUM   |
+| Q-006 | Who were Tesla's regular contacts at Hotel New Yorker in final years?         | ENT-001             | MEDIUM   |
+| Q-007 | Ship Serbia, Port of Rijeka, September 1951 — does a manifest exist?          | EVT-015             | MEDIUM   |
+| Q-008 | Kosanović died 1956 — cause of death documented and verified?                 | ENT-003             | MEDIUM   |
+| Q-009 | Trump/Van de Graaff incident — what is the primary source? When exactly?      | ENT-004             | HIGH     |
+| Q-010 | Craigee particle beam assessment — what is the primary document Seifer used?  | ENT-008             | HIGH     |
+| Q-011 | Belgrade museum catalogue — does it skew toward pre-1928 material?            | RED-004             | HIGH     |
+| Q-012 | Who was the "concerned citizen" who sent Hoover the 1940 NYT Tesla interview? | EVT-007             | MEDIUM   |
 
 ---
 
 ## LOG-003 — FBI VAULT PART 1 ANALYSIS COMPLETE
+
 **Date:** 2026-03-04  
 **File:** 100-2237, Part 1, 160 pages, OCR  
 
 ### KEY CONFIRMATIONS
+
 - Death date discrepancy confirmed WITHIN FBI document stream (Jan 7 vs Jan 8, both appear)
 - Kenneth Swezey identity fully resolved (LED-004 → RESOLVED)
 - Trump evaluation explicitly excluded hotel basement trunks (his own words, page 178)
@@ -83,6 +86,7 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 - Amtorg correspondence (Tesla → Soviet engineers, Nov 1935) catalogued by Trump
 
 ### NEW LEADS ADDED
+
 - LED-010: Willis George / ONI Third Naval District authorization
 - LED-011: WPAFB Equipment Lab successor organization
 - LED-012: Charlotte Muzar estate agent
@@ -90,10 +94,10 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 - LED-014: Missing Edison Medal chain of custody
 
 ### OPEN QUESTIONS ADDED
+
 | Q-013 | Where is the Craigee evaluation report? Not in Part 1. | Part 1 review | HIGH |
 | Q-014 | Who authorized ONI participation in APC examination? | Willis George, Page 180 | HIGH |
 | Q-015 | What org succeeded the Equipment Lab at WPAFB? | 1983 classified memo | HIGH |
 | Q-016 | Did Amtorg correspondence reach Soviet intelligence beyond academic exchange? | Trump Exhibit D | MEDIUM |
 | Q-017 | Who was Charlotte Muzar? What was her relationship to Kosanovich? | Page 177 | MEDIUM |
 | Q-018 | Are the 30 barrels/bundles (at warehouse since 1934) included in the 75-trunk Oct 1945 count? | Pages 5, 177 | HIGH |
-

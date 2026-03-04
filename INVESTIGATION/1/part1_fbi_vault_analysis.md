@@ -1,4 +1,5 @@
 # FBI VAULT FILE PART 1 — DIRECT DOCUMENT ANALYSIS
+
 **File:** 100-2237 | **Pages Reviewed/Released:** 160/160  
 **Session:** WARDENCLYFFE V2 | **Date Analyzed:** 2026-03-04
 
@@ -7,6 +8,7 @@
 ## STRUCTURAL OVERVIEW
 
 Part 1 spans 1940–1983. It includes:
+
 - Incoming civilian tips about the teleforce (1940)
 - Operational teletypes from the night of death through Jan 12, 1943
 - The Trump evaluation letter and exhibits (Jan 30, 1943)
@@ -72,6 +74,7 @@ Fifteen years back from 1943 = **1928**. Trump dismisses 1928–1943. That is pr
 ### 4. TRUMP EVALUATION TEAM — **NAVAL INTELLIGENCE CONFIRMED**
 
 **Page 180 lists the examination participants:**
+
 - John C. Newington — NY Office, Alien Property Custodian
 - Charles J. Hedetniemi — Washington Office, APC
 - Dr. John G. Trump — OSRD / MIT
@@ -87,13 +90,13 @@ Three Navy personnel participated in the civilian APC evaluation. One was from *
 
 ### 5. TRUNK COUNT DISCREPANCY — **DOCUMENTS CONTRADICT EACH OTHER**
 
-| Source | Date | Trunk Count | Location |
-|--------|------|-------------|----------|
-| Tesla (per Fitzgerald) | Pre-death | 80 trunks | "different places" |
-| Page 9 FBI memo | Jan 11, 1943 | 80 trunks | "different places" |
-| Page 5 teletype | Jan 12, 1943 | 2 truckloads (hotel) + 30 barrels/bundles (warehouse since 1934) | Hotel + Manhattan Storage |
-| Page 177 (October 1945) | Oct 1945 | **75 packing cases and trunks** | Manhattan Storage |
-| Belgrade shipment (1951) | 1951 | 60 trunks shipped per historical record | Port of Rijeka |
+| Source                   | Date         | Trunk Count                                                      | Location                  |
+|--------------------------|--------------|------------------------------------------------------------------|---------------------------|
+| Tesla (per Fitzgerald)   | Pre-death    | 80 trunks                                                        | "different places"        |
+| Page 9 FBI memo          | Jan 11, 1943 | 80 trunks                                                        | "different places"        |
+| Page 5 teletype          | Jan 12, 1943 | 2 truckloads (hotel) + 30 barrels/bundles (warehouse since 1934) | Hotel + Manhattan Storage |
+| Page 177 (October 1945)  | Oct 1945     | **75 packing cases and trunks**                                  | Manhattan Storage         |
+| Belgrade shipment (1951) | 1951         | 60 trunks shipped per historical record                          | Port of Rijeka            |
 
 **The 80→75 discrepancy is WITHIN THE FBI FILE ITSELF.** By October 1945, five items are already unaccounted for. Then 15 more are unaccounted for by the time 60 arrive in Belgrade. The file does not address this at any point.
 
@@ -123,6 +126,7 @@ The man who personally told Tesla about his completed wireless transmission expe
 **Pages 133-135 — Classified SECRET, August 1983, Cincinnati FBI:**
 
 Two WPAFB researchers contacted FBI:
+
 - A physicist from the **Electro Optics Research Lab, Avionics Division, USAF** at WPAFB
 - **Butler**, physicist and intelligence specialist, **Foreign Technology Division** at WPAFB
 
@@ -134,6 +138,7 @@ Butler was "unable to locate any Tesla papers or copies of same in the classifie
 > "There are reports that some portions of them were shipped by the Custodian of Alien Property Office in Washington, D.C. to **a technical research lab at WPAFB, possibly the 'Equipment Lab', now closed for some years or reorganized into another organization.**"
 
 **This is an official 1983 classified FBI document confirming:**
+
 1. Tesla papers were reportedly sent from OAPC to WPAFB
 2. The receiving lab has been closed or reorganized (i.e., the trail ends administratively)
 3. Soviet directed energy weapons programs may have benefited from Belgrade access
@@ -175,26 +180,31 @@ Amtorg was the Soviet trade organization in New York, used extensively for intel
 ## NEW LEADS GENERATED FROM PART 1
 
 ### LED-010 [NEW — HIGH PRIORITY]
+
 **What:** Willis George, Office of Naval Intelligence, Third Naval District — present at the Jan 26-27 examination.  
 **Why:** Naval Intelligence had no stated mandate here. George's presence alongside two Navy yeomen suggests an organized extraction operation under Navy cover. Who authorized ONI participation in a civilian APC examination?  
 **Where:** ONI records, NARA RG38. Also: National Archives Navy Department records, Third Naval District.
 
 ### LED-011 [NEW — HIGH PRIORITY]
+
 **What:** The "Equipment Lab" at Wright Patterson AFB — reportedly received Tesla papers from OAPC.  
 **Why:** The 1983 classified FBI memo specifically names this lab. It has since been "closed or reorganized." Reorganization = records transferred somewhere.  
 **Where:** WPAFB historical records, NARA RG340 (Air Force). Also: Air Force Materiel Command history office, which maintains organizational lineage for closed labs.
 
 ### LED-012 [NEW — MEDIUM PRIORITY]
+
 **What:** Charlotte Muzar, 134 East 63rd Street, New York — paying storage on behalf of Kosanovich.  
 **Why:** She was the financial agent for the estate while Kosanovich was abroad. She was the operational connection between the US government's storage and Kosanovich's instructions. What communications exist between her and Kosanovich? What instructions did she receive about the inventory?  
 **Where:** Surrogate Court probate records, New York County. APC records NARA RG131.
 
 ### LED-013 [NEW — MEDIUM PRIORITY]
+
 **What:** Dr. Lozado, "one of the advisors to Vice President Wallace."  
 **Why:** He was the direct link between the Spanel tip and the VP's office on day of death. He told Spanel the government was "vitally interested." His identity would establish whether the Wallace notification was reactive or whether the VP's office was already aware.  
 **Where:** Henry Wallace diaries (already LED-009 at U of Iowa MS 0290) and Wallace's official correspondence files at the National Archives.
 
 ### LED-014 [NEW — HIGH PRIORITY]
+
 **What:** The Edison Medal — missing from safe upon arrival in Belgrade.  
 **Why:** This is a **physical object** with a documented chain of custody. Swezey confirms it was in the safe when he left. The keys were found in a tin box OUTSIDE the safe. Both the medal and keys disappearing during the transit window (Manhattan → Belgrade, 1951) suggests the safe was opened during that period.  
 **Where:** Tesla Museum Belgrade inventory records. APC shipping manifest NARA RG131. Ship manifest from Port of Rijeka.
@@ -204,9 +214,11 @@ Amtorg was the Soviet trade organization in New York, used extensively for intel
 ## UPDATED REDACTION ANALYSIS
 
 ### RED-001 UPDATE (Torpedo device)
+
 The torpedo device is now more specifically identified. Fitzgerald told FBI that Tesla had "conceived and perfected a revolutionary type of torpedo which is not presently in use by any nation." The word "nations" is where the redaction cuts in the original Hoover-signed memo. After "not in use by any —" the sentence breaks. Now we know what was cut: the word "nations" and presumably the device's characteristics. Trump catalogued **none** of the torpedo specifications in his exhibits. The torpedo documents are not in what Trump reviewed — or they were reviewed and not catalogued.
 
 ### RED-002 UPDATE (Kosanovich theft allegation)
+
 Page 10 reveals what was planned: "The New York Office was instructed to **discreetly** move the matter with the State's Attorney in New York City with the view to possibly taking Kosanovich into custody on a **burglary charge** and obtaining the various papers which Kosanovich is reported to have taken." This never happened. The resolution of why it didn't happen = RED-002. The file does not show any follow-up. Kosanovich became Yugoslav Ambassador to the US and eventually sent the effects to Belgrade.
 
 ---
@@ -242,19 +254,19 @@ When actual government researchers (WPAFB, classified programs) start asking in 
 
 ## CROSS-REFERENCES TO DATABASE
 
-| DB Record | Status After Part 1 |
-|-----------|---------------------|
-| EVT-001 (Death date) | FLAG ADDED: DATE-AMBIGUITY-INTERNAL. Both dates appear in file. |
-| EVT-005 (Hotel safe) | CONFIRMED: Swezey first-person account. Date = night of Jan 8. |
-| EVT-008 (APC seizure) | CONFIRMED: Jan 9 seizure, 2 truckloads + 30 barrels at warehouse. |
-| EVT-009 (Trump eval) | CONFIRMED: Jan 26-27. Trump excluded hotel trunks explicitly. |
-| LED-001 (Wright Patterson) | UPGRADED: 1983 classified memo confirms Equipment Lab transfer. |
-| LED-002 (Trump auth chain) | PARTIAL: Gorsuch requested + Joseph T. King (APC Washington) requested. Authorization above them = unknown. |
-| LED-004 (Kenneth [REDACTED]) | RESOLVED: Kenneth M. Swezey. Full name, address, occupation confirmed. |
-| LED-005 (Trunk inventory) | UPGRADED: 80→75 discrepancy documented within Part 1 itself. |
-| PAT-001 (3-Day Disposal) | CONFIRMED OPERATIONAL: Hotel trunks explicitly excluded from evaluation. |
-| PAT-002 (Motivated Evaluator) | CONFIRMED: Trump / Division 14 NDRC (radar division, not electrical engineering). |
-| RED-001 (Torpedo redaction) | CONTEXT ADDED: Cuts at "not in use by any [nations]". Torpedo docs absent from Trump exhibits. |
-| RED-002 (Kosanovich) | CONTEXT ADDED: Arrest plan existed, was never executed. |
-| RED-003 (Trump evaluation) | CONFIRMED ANOMALY: Hotel trunk exclusion is documented in Trump's own letter. |
-| RED-004 (Missing trunks) | UPGRADED: 80→75 appears within Part 1. PLUS separate 30 barrels may not be in count. |
+| DB Record                     | Status After Part 1                                                                                         |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------|
+| EVT-001 (Death date)          | FLAG ADDED: DATE-AMBIGUITY-INTERNAL. Both dates appear in file.                                             |
+| EVT-005 (Hotel safe)          | CONFIRMED: Swezey first-person account. Date = night of Jan 8.                                              |
+| EVT-008 (APC seizure)         | CONFIRMED: Jan 9 seizure, 2 truckloads + 30 barrels at warehouse.                                           |
+| EVT-009 (Trump eval)          | CONFIRMED: Jan 26-27. Trump excluded hotel trunks explicitly.                                               |
+| LED-001 (Wright Patterson)    | UPGRADED: 1983 classified memo confirms Equipment Lab transfer.                                             |
+| LED-002 (Trump auth chain)    | PARTIAL: Gorsuch requested + Joseph T. King (APC Washington) requested. Authorization above them = unknown. |
+| LED-004 (Kenneth [REDACTED])  | RESOLVED: Kenneth M. Swezey. Full name, address, occupation confirmed.                                      |
+| LED-005 (Trunk inventory)     | UPGRADED: 80→75 discrepancy documented within Part 1 itself.                                                |
+| PAT-001 (3-Day Disposal)      | CONFIRMED OPERATIONAL: Hotel trunks explicitly excluded from evaluation.                                    |
+| PAT-002 (Motivated Evaluator) | CONFIRMED: Trump / Division 14 NDRC (radar division, not electrical engineering).                           |
+| RED-001 (Torpedo redaction)   | CONTEXT ADDED: Cuts at "not in use by any [nations]". Torpedo docs absent from Trump exhibits.              |
+| RED-002 (Kosanovich)          | CONTEXT ADDED: Arrest plan existed, was never executed.                                                     |
+| RED-003 (Trump evaluation)    | CONFIRMED ANOMALY: Hotel trunk exclusion is documented in Trump's own letter.                               |
+| RED-004 (Missing trunks)      | UPGRADED: 80→75 appears within Part 1. PLUS separate 30 barrels may not be in count.                        |
