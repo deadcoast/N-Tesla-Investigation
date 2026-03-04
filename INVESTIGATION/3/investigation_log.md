@@ -1,5 +1,4 @@
 # INVESTIGATION LOG
-
 _Running record of sessions, findings, and open questions._
 
 ---
@@ -50,30 +49,28 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 
 ## OPEN QUESTIONS
 
-| ID    | Question                                                                      | Source              | Priority |
-|-------|-------------------------------------------------------------------------------|---------------------|----------|
-| Q-001 | Which specific FBI agent notified Wallace of Tesla's death?                   | EVT-008, ENT-006    | HIGH     |
-| Q-002 | What was Tesla specifically working on in 1942-43?                            | ENT-001             | HIGH     |
-| Q-003 | Did FDR actually attempt to meet Tesla pre-death? What is the source?         | FBI docs per Seifer | HIGH     |
-| Q-004 | What did Tesla say at the 1922 Friends of Russia speech?                      | EVT-005             | MEDIUM   |
-| Q-005 | Where was Tesla's laboratory equipment? Hotel room ≠ all equipment.           | ENT-001             | MEDIUM   |
-| Q-006 | Who were Tesla's regular contacts at Hotel New Yorker in final years?         | ENT-001             | MEDIUM   |
-| Q-007 | Ship Serbia, Port of Rijeka, September 1951 — does a manifest exist?          | EVT-015             | MEDIUM   |
-| Q-008 | Kosanović died 1956 — cause of death documented and verified?                 | ENT-003             | MEDIUM   |
-| Q-009 | Trump/Van de Graaff incident — what is the primary source? When exactly?      | ENT-004             | HIGH     |
-| Q-010 | Craigee particle beam assessment — what is the primary document Seifer used?  | ENT-008             | HIGH     |
-| Q-011 | Belgrade museum catalogue — does it skew toward pre-1928 material?            | RED-004             | HIGH     |
-| Q-012 | Who was the "concerned citizen" who sent Hoover the 1940 NYT Tesla interview? | EVT-007             | MEDIUM   |
+| ID | Question | Source | Priority |
+|----|----------|--------|----------|
+| Q-001 | Which specific FBI agent notified Wallace of Tesla's death? | EVT-008, ENT-006 | HIGH |
+| Q-002 | What was Tesla specifically working on in 1942-43? | ENT-001 | HIGH |
+| Q-003 | Did FDR actually attempt to meet Tesla pre-death? What is the source? | FBI docs per Seifer | HIGH |
+| Q-004 | What did Tesla say at the 1922 Friends of Russia speech? | EVT-005 | MEDIUM |
+| Q-005 | Where was Tesla's laboratory equipment? Hotel room ≠ all equipment. | ENT-001 | MEDIUM |
+| Q-006 | Who were Tesla's regular contacts at Hotel New Yorker in final years? | ENT-001 | MEDIUM |
+| Q-007 | Ship Serbia, Port of Rijeka, September 1951 — does a manifest exist? | EVT-015 | MEDIUM |
+| Q-008 | Kosanović died 1956 — cause of death documented and verified? | ENT-003 | MEDIUM |
+| Q-009 | Trump/Van de Graaff incident — what is the primary source? When exactly? | ENT-004 | HIGH |
+| Q-010 | Craigee particle beam assessment — what is the primary document Seifer used? | ENT-008 | HIGH |
+| Q-011 | Belgrade museum catalogue — does it skew toward pre-1928 material? | RED-004 | HIGH |
+| Q-012 | Who was the "concerned citizen" who sent Hoover the 1940 NYT Tesla interview? | EVT-007 | MEDIUM |
 
 ---
 
 ## LOG-003 — FBI VAULT PART 1 ANALYSIS COMPLETE
-
 **Date:** 2026-03-04  
 **File:** 100-2237, Part 1, 160 pages, OCR  
 
 ### KEY CONFIRMATIONS
-
 - Death date discrepancy confirmed WITHIN FBI document stream (Jan 7 vs Jan 8, both appear)
 - Kenneth Swezey identity fully resolved (LED-004 → RESOLVED)
 - Trump evaluation explicitly excluded hotel basement trunks (his own words, page 178)
@@ -86,7 +83,6 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 - Amtorg correspondence (Tesla → Soviet engineers, Nov 1935) catalogued by Trump
 
 ### NEW LEADS ADDED
-
 - LED-010: Willis George / ONI Third Naval District authorization
 - LED-011: WPAFB Equipment Lab successor organization
 - LED-012: Charlotte Muzar estate agent
@@ -94,7 +90,6 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 - LED-014: Missing Edison Medal chain of custody
 
 ### OPEN QUESTIONS ADDED
-
 | Q-013 | Where is the Craigee evaluation report? Not in Part 1. | Part 1 review | HIGH |
 | Q-014 | Who authorized ONI participation in APC examination? | Willis George, Page 180 | HIGH |
 | Q-015 | What org succeeded the Equipment Lab at WPAFB? | 1983 classified memo | HIGH |
@@ -102,15 +97,14 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 | Q-017 | Who was Charlotte Muzar? What was her relationship to Kosanovich? | Page 177 | MEDIUM |
 | Q-018 | Are the 30 barrels/bundles (at warehouse since 1934) included in the 75-trunk Oct 1945 count? | Pages 5, 177 | HIGH |
 
+
 ---
 
 ## LOG-004 — FBI VAULT PART 2 ANALYSIS COMPLETE
-
 **Date:** 2026-03-04  
 **Files:** 100-3674 (ASC), 100-27593 (Kosanovich), 100-19816 (WFO Loyalty), 100-2237 (Tesla)  
 
 ### KEY FINDINGS
-
 - Naval microfilm confirmed in Nichols-to-Tolson internal memo: "Naval authorities made microfilms of ALL his papers" — private confirmation of what public statements denied
 - Harvey F. Rath: FBI agent on Tesla case, resigned April 5 1946. Told Spanel FBI was "stopped from a higher level." Never re-interviewed by Bureau. Critical insider.
 - "Stopped from a higher level" — Spanel's claim is in the FBI's own file, uncontested. Communicated to Senators.
@@ -121,17 +115,56 @@ TIMELINE COMPRESSION — Any sequence of events described as faster than physica
 - Louis Adamic as connecting node: Kosanovich, Yugoslav relief, ASC — died August 1951, 5 months before Belgrade shipment
 - Kosanovich requested microfilms of Tesla papers from FBI (March 1950) — was told FBI never had them
 
-### ADDITIONAL NEW LEADS ADDED
-
+### NEW LEADS ADDED
 - LED-015: Harvey F. Rath (HIGHEST PRIORITY)
 - LED-016: Kosanovich-Silvermaster meeting
 - LED-017: Louis Adamic papers, Princeton
 - LED-018: Spanel Senate communications
 
-### ADDITIONAL OPEN QUESTIONS ADDED
-
+### OPEN QUESTIONS ADDED
 | Q-019 | Kosanovich-Silvermaster Dec 11 1946 meeting — followed up? | Part 2 p.28 | HIGH |
 | Q-020 | Louis Adamic death (Aug 4 1951) — any investigation beyond suicide ruling? | Part 2 analysis | MEDIUM |
 | Q-021 | Who is unnamed WFO loyalty subject (pages 31-41) with Kosanovich/Adamic connections? | Part 2 | MEDIUM |
 | Q-022 | Grombach memo 1946: who was "collaborating with Nicolas Tesla" — Tesla was dead | Part 2 p.30 | MEDIUM |
 | Q-023 | Where did Rath go after April 1946? Employer/field would indicate pressure behind resignation | Part 2 p.29 | HIGH |
+
+
+---
+
+## LOG-005 — FBI VAULT PART 3 ANALYSIS COMPLETE
+**Date:** 2026-03-04  
+**File:** NY 65-12290, Trump Evaluation (full), Rath re-interview, 1957 Margaret Storm file
+
+### KEY FINDINGS
+
+**AMTORG CONTRACT CONFIRMED (Exhibit Q in Trump evaluation):**
+Tesla signed contract with Amtorg Trading Corporation April 20, 1935. Received $25,000 fee. Agreed to deliver teleforce specifications: 50 million volts, particles projected 100+ miles at 350+ miles/second. Signed by Tesla and A. Bertenlen of Amtorg. Trump abstracts it and dismisses ("subsequently proved unworkable") but the transaction itself is documented. Exhibit D (Nov 1935 Amtorg reply) = Tesla following up on this paid contract. This is the primary transaction linking Tesla's work to Soviet intelligence infrastructure.
+
+**HARVEY RATH RE-INTERVIEW (Feb 8 1951):**
+Rath denies telling Bergstresser the FBI was "stopped from a higher level" or that "last hope was Congress." Denial is carefully bounded to Bergstresser only — does not address what he told Spanel. Date discrepancy: Nichols memo says resigned April 5 1946; Rath says May 1945. The controlled denial structure is designed to rebut Bergstresser (less credible) without addressing Spanel (more credible, communicated to Senators).
+
+**MANHATTAN WAREHOUSE SUPERVISOR (Michael King, April 1950):**
+Only examination: January 26-27 1943. Navy uniforms visible. Civilians identified only as "Federal Authorities." Microfilm equipment used. No subsequent examinations. Kosanovich was told by warehouse that "the FBI" made microfilms — actually the Navy, operating under generic federal cover. FBI's denials technically accurate.
+
+**SPANEL CONTROLLED FITZGERALD:**
+Spanel met Fitzgerald December 1942 (one month before Tesla died). Blocked Fitzgerald's Remington Arms deal. Got him a job at Higgins Ship Building, took 60% of profits contractually. Fired him November 1943. Spanel had financial control over Tesla's primary protege before and after Tesla's death.
+
+**1957 ACTIVE SURVEILLANCE:**
+Tesla case file still open 14 years after death. Margaret Storm's "Tesla was a Venusian" newsletter prompted FBI report and inter-office distribution. File was never operationally closed — individual leads marked closed but master file remained under surveillance.
+
+**TRUMP EVALUATION — CENTRAL CONTRADICTION:**
+"At least past fifteen years" dismissal (1928-1943) covers the exact period of Amtorg contract, British government offers, and teleforce development. He dismissed the period's work while simultaneously abstracting the Amtorg contract in Exhibit Q. Dismissal and documentation coexist in the same letter.
+
+### NEW LEADS
+- LED-019: Amtorg contract original (HIGHEST PRIORITY)
+- LED-020: Spanel-Fitzgerald financial records
+
+### NEW QUESTIONS
+| Q-024 | Spanel financial control over Fitzgerald — full nature of relationship | Part 3 pp.45-47 | MEDIUM |
+| Q-025 | Amtorg contract original — in OAPC files at NARA RG131? | Part 3 p.44 | HIGH |
+| Q-026 | Rath departure date discrepancy — April 1946 vs May 1945 | Parts 2-3 | HIGH |
+| Q-027 | Was Tesla case file ever formally closed? Active through 1957+ | Part 3 pp.61-64 | MEDIUM |
+
+### FINAL VAULT ANALYSIS COMPLETE
+All three parts analyzed. 20 total leads documented. Database current.
+

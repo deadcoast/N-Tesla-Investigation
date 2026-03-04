@@ -1,4 +1,5 @@
 # FBI VAULT FILE PART 2 — DIRECT DOCUMENT ANALYSIS
+
 **Files:** 100-3674 (ASC), 100-27593 (Kosanovich/Cincinnati), 100-19816 (WFO Loyalty), 100-2237 (Tesla main)  
 **Session:** WARDENCLYFFE V2 | **Date Analyzed:** 2026-03-04
 
@@ -7,6 +8,7 @@
 ## STRUCTURAL OVERVIEW
 
 Part 2 is a **surveillance and counterintelligence file**, not a technical file. It contains:
+
 - American Slav Congress (ASC) investigation — Internal Security-C
 - Kosanovich surveillance reports (Cincinnati, New York, Washington Field)
 - The Nichols-to-Tolson Pegler briefing memo (January 30, 1951) — **highest value document in this part**
@@ -42,6 +44,7 @@ Cross-reference: Part 1 confirmed Willis George (ONI) was physically present at 
 > "We did have an Agent, Harvey F. Rath, who entered on duty February 16, 1942, resigned April 5, 1946. At the time [of his departure] his business [address] was [redacted] Avenue... his residence was [redacted] Street, Orange, New Jersey."
 
 This is notable because Spanel's communications (furnished to the Department, September 19, 1950) stated that **Harvey Rath was the FBI agent he dealt with on the Tesla case**, and that Rath had:
+
 - Resigned
 - Told Spanel he could not discuss the matter
 - **"Their hands were tied, that there was nothing the FBI could do as they had been stopped from a higher level"**
@@ -100,6 +103,7 @@ This is significant for two reasons:
 **Pages 25-26, 32-34, 40-41 — Kosanovich file:**
 
 Accumulated portrait from the surveillance file:
+
 - Described as "pro-Tito" by informants
 - "Possibly a Communist" — some informants say yes, others say no
 - Investigated multiple times as possible espionage agent; "no overt acts ever developed"
@@ -124,6 +128,7 @@ An internal War Department memo (Grombach, Special Intelligence) passed through 
 Two problems: Tesla died in January 1943. Tesla lived in New York, not Cleveland.
 
 **Assessment:** This 1946 War Department intelligence memo describes Tesla as if he is still alive and living in Cleveland. This is either:
+
 1. A clerical/intelligence error — conflating Tesla with someone else
 2. A reference to Tesla's papers or legacy work, poorly worded
 3. A deliberate misdirection in the intelligence record
@@ -173,34 +178,38 @@ Part 2 is the **political control layer** of the Tesla case. Part 1 was the oper
 
 ## UPDATED DATABASE ENTRIES
 
-| DB Record | Update |
-|-----------|--------|
-| RED-002 (Kosanovich) | Silvermaster meeting Dec 11, 1946 documented. No overt acts found. Kosanovich leveraging Tesla connection for ambassador posting. |
+| DB Record                 | Update                                                                                                                                     |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| RED-002 (Kosanovich)      | Silvermaster meeting Dec 11, 1946 documented. No overt acts found. Kosanovich leveraging Tesla connection for ambassador posting.          |
 | PAT-003 (Theft narrative) | Confirmed: Kosanovich was portrayed as disloyal/pro-Axis in Tesla files, while Nichols memo privately notes "no overt acts ever developed" |
-| PAT-005 (Reputational) | CONFIRMED: Tesla on ASC Board of Directors = Communist-organization association available as reputational tool |
-| ENT-003 (Kosanovich) | Add: Silvermaster meeting, leverage of Tesla connection, likely "in disfavor" in Yugoslavia |
-| LED-005 (Trunk inventory) | Kosanovich requesting microfilms of Tesla papers in March 1950 — he did not have them and knew they existed |
+| PAT-005 (Reputational)    | CONFIRMED: Tesla on ASC Board of Directors = Communist-organization association available as reputational tool                             |
+| ENT-003 (Kosanovich)      | Add: Silvermaster meeting, leverage of Tesla connection, likely "in disfavor" in Yugoslavia                                                |
+| LED-005 (Trunk inventory) | Kosanovich requesting microfilms of Tesla papers in March 1950 — he did not have them and knew they existed                                |
 
 ---
 
 ## NEW LEADS GENERATED
 
 ### LED-015 [NEW — HIGH PRIORITY]
+
 **What:** Harvey F. Rath — FBI agent on Tesla case, entered duty Feb 16 1942, resigned April 5 1946.  
 **Why:** Told Spanel FBI was "stopped from a higher level" on Tesla case. Told Spanel never to contact him again. Family considerations cited. Never re-interviewed by FBI per Nichols memo. This is the closest thing to an insider who broke cover.  
 **Where:** FBI personnel records (FOIA), DOJ archives. Residence at resignation: Orange, New Jersey. His post-FBI employer may be traceable through New Jersey business records ca. 1946-1950.
 
 ### LED-016 [NEW — HIGH PRIORITY]  
+
 **What:** Kosanovich-Silvermaster meeting, December 11, 1946.  
 **Why:** Nathan Gregory Silvermaster was a confirmed Soviet intelligence operative. Kosanovich met him during the period when Tesla's papers were still in US storage. If anything was passed, it went through this meeting or the network around it.  
 **Where:** Silvermaster FBI file (already partially released), Venona intercepts (NSA/NARA), Elizabeth Bentley grand jury testimony records.
 
 ### LED-017 [NEW — MEDIUM PRIORITY]
+
 **What:** Louis Adamic papers, Princeton University Mudd Manuscript Library.  
 **Why:** Adamic was the connecting node between Kosanovich, Yugoslav relief networks, and the American Slav Congress. He died August 1951, five months before Tesla effects shipped to Belgrade. His correspondence may contain references to Tesla papers, Fitzgerald, or the Kosanovich estate handling.  
 **Where:** Princeton University Library, Mudd Manuscript Library, Adamic Papers.
 
 ### LED-018 [NEW — MEDIUM PRIORITY]
+
 **What:** Spanel's Senate communications, September 19, 1950 — furnished to Department of Justice.  
 **Why:** Spanel communicated to Senators that the FBI was stopped from pursuing the Tesla case "from a higher level." These communications were filed with DOJ. The senators were not named in the FBI memo. Congressional Record and DOJ archives may identify what was filed.  
 **Where:** DOJ records NARA, Congressional correspondence files ca. 1950.
